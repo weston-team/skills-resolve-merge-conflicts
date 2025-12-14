@@ -1,1 +1,4 @@
-Hello!!! this is a new file that should conflict in main :) 
+# References
+
+* octocat 1 😈
+* octocat 2 
